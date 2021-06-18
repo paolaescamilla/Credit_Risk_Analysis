@@ -33,7 +33,8 @@ For model 6, the accuracy score is 0.9316 with a total precision of 0.99
 # Summary 
 The results of each model are summarized as follows:
 
-|-------------- | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 | Model 6|
+|Characteristics | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 | Model 6|
+|----------------|---------|---------|---------|---------|---------|--------|
 |Accuracy Score |0.7454   | 0.7197  | 0.6250  |0.6556   |0.7290   | 0.9316 |
 |Total Precision|0.99     | 0.99    | 0.99    | 0.99    | 0.99    | 0.99   | 
 
